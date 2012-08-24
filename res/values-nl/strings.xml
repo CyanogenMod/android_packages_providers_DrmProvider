@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--  Copyright (C) 2008 The Android Open Source Project
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2008 The Android Open Source Project
+     Copyright (C) 2012 The CyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -13,12 +14,11 @@
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
-
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_label" msgid="5439897702697364618">"DRM-beschermde inhoudsopslag"</string>
-    <string name="permlab_accessDrm" msgid="1806974558208719656">"DRM-inhoud openen."</string>
-    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Toestaan dat de app inhoud met DRM-beveiliging opent."</string>
-    <string name="permlab_installDrm" msgid="4716871004736576753">"DRM-inhoud installeren."</string>
-    <string name="permdesc_installDrm" msgid="6760690341551044340">"Toestaan dat de app inhoud met DRM-beveiliging installeert."</string>
+    <string name="permlab_accessDrm" msgid="1806974558208719656">"DRM-inhoud openen"</string>
+    <string name="permdesc_accessDrm" msgid="4007141468321381195">"Hiermee kan de app inhoud met DRM-beveiliging openen."</string>
+    <string name="permlab_installDrm" msgid="4716871004736576753">"DRM-inhoud installeren"</string>
+    <string name="permdesc_installDrm" msgid="6760690341551044340">"Hiermee kan de app inhoud met DRM-beveiliging installeren."</string>
 </resources>
